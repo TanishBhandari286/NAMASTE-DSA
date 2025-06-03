@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	logallrefupdates = false
+	symlinks = true
+	ignorecase = false
+	precomposeunicode = true
+[remote "origin"]
+	url = git@github.com:TanishBhandari286/NAMASTE-DSA.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
